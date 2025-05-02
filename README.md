@@ -88,7 +88,6 @@ Each function in the loop delegates to modules in the `/RW/` and `/Display/` dir
 ## To-Do / Improvements
 
 - Add configuration file for adjustable sensor parameters
-- Fix the `UART_diaplay.c` filename typo
 - Add comments to driver source files
 - Modularize EEPROM read functionality
 - Add support for RTC setting via UART commands
