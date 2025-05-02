@@ -43,7 +43,6 @@ Embedded/
 ├── Display/
 │   ├── LCD_display.c
 │   ├── UART_display.c
-│   └── UART_diaplay.c   # (Likely a typo of UART_display.c)
 ```
 
 ## How It Works
